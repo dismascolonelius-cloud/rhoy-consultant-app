@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RHOYEnvironmentalConsultant"
 include(":app")
-
