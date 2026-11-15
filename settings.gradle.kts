@@ -1,4 +1,3 @@
-Kotlin
 pluginManagement {
     repositories {
         google()
@@ -15,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RHOYEnvironmentalConsultant"
 include(":app")
+
